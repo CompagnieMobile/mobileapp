@@ -1,0 +1,18 @@
+		[
+			{
+				"nom":"Equipements", 
+				"cip_inspecteur" : "xu2023"
+			}, 
+			{
+				"nom":"Vehicule", 
+				"cip_inspecteur" : "xu2023"
+			}, 
+			{
+				"nom":"Securite", 
+				"cip_inspecteur" : "su2022"
+			}, 					
+			{
+				"nom":"Espace de travail", 
+				"cip_inspecteur" : "xu2023"
+			}
+		]
